@@ -9,7 +9,6 @@ This project is a responsive website design for G3 Architects, showcasing their 
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Description
 
@@ -53,7 +52,3 @@ If you would like to contribute to this project, please follow these steps:
 2. Create a new branch.
 3. Make your changes and commit them.
 4. Push to your fork and submit a pull request.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE.md). Feel free to use, modify, and distribute the code.
